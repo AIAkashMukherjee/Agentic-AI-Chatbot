@@ -1,0 +1,17 @@
+
+fastapi
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-openai
+langgraph
+langsmith
+numpy
+openai
+pandas
+python-dotenv
+streamlit
+tiktoken
+tqdm
+uvicorn
